@@ -1,0 +1,236 @@
+header{
+
+    background-color: black;
+    height: 10%;
+    color: white;
+    align-items: center;
+    justify-content: space-between;;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+    
+    }
+    
+    header h1{
+    
+        font-size: 28px;
+        margin-left: 100px;
+        
+        }
+    
+    .header_enfeite h1{
+    
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    
+    }
+    
+    .header_enfeite{
+        display: flex;
+        width: 30%;
+        margin-right: 500px;
+    }
+    
+    header h2{
+    
+        display:flex;
+        align-items: center;
+        margin-left: 25px;
+        list-style: none;
+        font-size: 20px;
+        margin-top: 17px;
+        margin-bottom: 22px;
+    
+    }
+    
+    header a:hover{
+    
+        color: yellow;
+    
+    }
+    
+    
+    header a{
+    
+        color: white;
+        text-decoration: none;
+    
+    }
+    
+    main{
+    
+        height: 100%;
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .caroulsel_container{
+    
+        border: solid black;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        background-color: grey;
+    
+    }
+    
+    .container_skills{
+    
+        height: 650px;
+        width: 50%;
+        float: left;;
+        background-color: white;  
+    
+    }
+    
+    .container_skills h2{
+    
+        text-align: center;
+        color: white;
+        background-color: black;
+        padding: 0px 0 10px 0;
+    
+    }
+    
+    .skill_01{
+    
+        width: 97%;
+        background-color: rgb(206, 206, 206);
+        margin-top: 10px;
+        margin-left: 10px;
+        
+    }
+    
+    .skill_01 img{
+    
+        height: 70px;
+    
+    }
+    
+    .skill_02{
+    
+        width: 97%;
+        background-color: rgb(206, 206, 206);
+        margin-top: 10px;
+        margin-left: 10px;
+        
+    }
+        
+    .skill_02 img{
+        
+        height: 70px;
+        
+    }
+    
+    .skill_03{
+    
+        width: 97%;
+        background-color: rgb(206, 206, 206);
+        margin-top: 10px;
+        margin-left: 10px;
+        
+    }
+            
+    .skill_03 img{
+            
+        height: 70px;
+            
+    }    
+    
+    .banner{
+    
+    float: left;
+    
+    }
+    
+    .classe{
+    
+        float: left;
+        
+        width: 50%;
+        margin-top: 10px;
+    
+    }
+    
+    
+    .guard_img{
+    
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    
+    }
+    
+    .guard_img h3{
+    
+        font-size: 40px;
+    
+    }
+    
+    .guard_img img{
+    
+        height: 100px;
+    
+    }
+    
+    .range{
+    
+        float: left;
+        width: 50%;
+        margin-top: 10px;
+    
+        
+     }
+    
+    .range_img{
+    
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 50px;
+        margin-bottom: 10px;
+    
+    }
+    
+    .range img{
+    
+        height: 50px;
+    
+    }
+    
+    .passiva{
+    
+        background-color: white;
+        width: 100%;
+        float: left;  
+        align-items: center;
+        height: 167px;
+        border-bottom: black solid;
+    
+    }
+    
+    .nome_personagem{
+    
+        width: 100%;
+        color: white;
+        background-color: black;
+        justify-content: left;
+        align-items: center;
+        display: flex;   
+    
+    }
+    
+    .nome_personagem h2{
+    
+        width: 50%;
+        align-items: center;
+        text-align: center;
+    
+    } 
